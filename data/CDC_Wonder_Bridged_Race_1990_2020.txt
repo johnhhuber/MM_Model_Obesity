@@ -1,0 +1,345 @@
+"Notes"	"Age"	"Age Code"	"Ethnicity"	"Ethnicity Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	Population
+	"< 1 year"	"0"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9050269
+	"< 1 year"	"0"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	33593727
+	"< 1 year"	"0"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9325741
+	"< 1 year"	"0"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	35366953
+	"1 year"	"1"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9095182
+	"1 year"	"1"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	33755557
+	"1 year"	"1"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9369011
+	"1 year"	"1"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	35508750
+	"2 years"	"2"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9126405
+	"2 years"	"2"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	33988707
+	"2 years"	"2"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9414508
+	"2 years"	"2"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	35760398
+	"3 years"	"3"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9175619
+	"3 years"	"3"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	34303431
+	"3 years"	"3"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9451075
+	"3 years"	"3"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	36099497
+	"4 years"	"4"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9304048
+	"4 years"	"4"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	34697740
+	"4 years"	"4"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9592493
+	"4 years"	"4"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	36552827
+	"5 years"	"5"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9303740
+	"5 years"	"5"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	34953007
+	"5 years"	"5"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9596674
+	"5 years"	"5"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	36817555
+	"6 years"	"6"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9253592
+	"6 years"	"6"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	35080713
+	"6 years"	"6"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9544263
+	"6 years"	"6"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	36946777
+	"7 years"	"7"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9290427
+	"7 years"	"7"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	35346065
+	"7 years"	"7"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9566149
+	"7 years"	"7"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	37240856
+	"8 years"	"8"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9228773
+	"8 years"	"8"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	35307708
+	"8 years"	"8"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9514418
+	"8 years"	"8"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	37209761
+	"9 years"	"9"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9389303
+	"9 years"	"9"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	35982996
+	"9 years"	"9"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9694870
+	"9 years"	"9"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	37957159
+	"10 years"	"10"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9498809
+	"10 years"	"10"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	36582238
+	"10 years"	"10"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9812556
+	"10 years"	"10"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	38602975
+	"11 years"	"11"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9407910
+	"11 years"	"11"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	36607563
+	"11 years"	"11"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9688048
+	"11 years"	"11"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	38612629
+	"12 years"	"12"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9430992
+	"12 years"	"12"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	36837625
+	"12 years"	"12"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9719449
+	"12 years"	"12"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	38858553
+	"13 years"	"13"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9398487
+	"13 years"	"13"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	36967254
+	"13 years"	"13"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9676000
+	"13 years"	"13"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39014952
+	"14 years"	"14"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9382203
+	"14 years"	"14"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	36972073
+	"14 years"	"14"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9672321
+	"14 years"	"14"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39057304
+	"15 years"	"15"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9417071
+	"15 years"	"15"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37125771
+	"15 years"	"15"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9725689
+	"15 years"	"15"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39279807
+	"16 years"	"16"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9391613
+	"16 years"	"16"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37185093
+	"16 years"	"16"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9729328
+	"16 years"	"16"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39370017
+	"17 years"	"17"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9392733
+	"17 years"	"17"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37215225
+	"17 years"	"17"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9733970
+	"17 years"	"17"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39431637
+	"18 years"	"18"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9445933
+	"18 years"	"18"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37418209
+	"18 years"	"18"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9680544
+	"18 years"	"18"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39334747
+	"19 years"	"19"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9597153
+	"19 years"	"19"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	38256942
+	"19 years"	"19"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9715340
+	"19 years"	"19"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39903575
+	"20 years"	"20"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9507551
+	"20 years"	"20"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	38274487
+	"20 years"	"20"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9561061
+	"20 years"	"20"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39839622
+	"21 years"	"21"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9384071
+	"21 years"	"21"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	38151945
+	"21 years"	"21"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9359871
+	"21 years"	"21"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39609452
+	"22 years"	"22"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9222872
+	"22 years"	"22"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37920781
+	"22 years"	"22"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	9103912
+	"22 years"	"22"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39223546
+	"23 years"	"23"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9170107
+	"23 years"	"23"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37929160
+	"23 years"	"23"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8930553
+	"23 years"	"23"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39092946
+	"24 years"	"24"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9158204
+	"24 years"	"24"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	38287454
+	"24 years"	"24"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8813108
+	"24 years"	"24"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39246312
+	"25 years"	"25"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9187033
+	"25 years"	"25"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	38701478
+	"25 years"	"25"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8731617
+	"25 years"	"25"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39529908
+	"26 years"	"26"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9084555
+	"26 years"	"26"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	38883972
+	"26 years"	"26"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8524340
+	"26 years"	"26"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39503800
+	"27 years"	"27"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9090384
+	"27 years"	"27"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	39431787
+	"27 years"	"27"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8449002
+	"27 years"	"27"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	40003794
+	"28 years"	"28"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8913192
+	"28 years"	"28"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	39291029
+	"28 years"	"28"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8236265
+	"28 years"	"28"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39952136
+	"29 years"	"29"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9058769
+	"29 years"	"29"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	40173571
+	"29 years"	"29"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8304642
+	"29 years"	"29"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	40890477
+	"30 years"	"30"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	9052403
+	"30 years"	"30"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	40749081
+	"30 years"	"30"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8268270
+	"30 years"	"30"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	41547880
+	"31 years"	"31"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8856441
+	"31 years"	"31"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	40614609
+	"31 years"	"31"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	8026458
+	"31 years"	"31"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	41245064
+	"32 years"	"32"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8865373
+	"32 years"	"32"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	41265515
+	"32 years"	"32"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7994228
+	"32 years"	"32"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	41848282
+	"33 years"	"33"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8820446
+	"33 years"	"33"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	41653618
+	"33 years"	"33"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7904997
+	"33 years"	"33"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	42133825
+	"34 years"	"34"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8908427
+	"34 years"	"34"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	42285586
+	"34 years"	"34"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7980559
+	"34 years"	"34"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	42868713
+	"35 years"	"35"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8933255
+	"35 years"	"35"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	42774252
+	"35 years"	"35"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7997761
+	"35 years"	"35"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43316227
+	"36 years"	"36"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8825368
+	"36 years"	"36"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	42796724
+	"36 years"	"36"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7837675
+	"36 years"	"36"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43128086
+	"37 years"	"37"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8810323
+	"37 years"	"37"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43041585
+	"37 years"	"37"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7801778
+	"37 years"	"37"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43346295
+	"38 years"	"38"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8639076
+	"38 years"	"38"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	42773531
+	"38 years"	"38"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7630843
+	"38 years"	"38"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	42993457
+	"39 years"	"39"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8782595
+	"39 years"	"39"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43816132
+	"39 years"	"39"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7786597
+	"39 years"	"39"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	44095346
+	"40 years"	"40"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8720733
+	"40 years"	"40"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43901278
+	"40 years"	"40"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7704722
+	"40 years"	"40"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	44111037
+	"41 years"	"41"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8513018
+	"41 years"	"41"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43664241
+	"41 years"	"41"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7493156
+	"41 years"	"41"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43702904
+	"42 years"	"42"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8437797
+	"42 years"	"42"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43952735
+	"42 years"	"42"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7434290
+	"42 years"	"42"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43982750
+	"43 years"	"43"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8359597
+	"43 years"	"43"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	44226588
+	"43 years"	"43"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7334866
+	"43 years"	"43"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	44108798
+	"44 years"	"44"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8225761
+	"44 years"	"44"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	44322039
+	"44 years"	"44"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7239583
+	"44 years"	"44"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	44286900
+	"45 years"	"45"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	8117327
+	"45 years"	"45"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	44308993
+	"45 years"	"45"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	7134225
+	"45 years"	"45"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	44145311
+	"46 years"	"46"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7927270
+	"46 years"	"46"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43983699
+	"46 years"	"46"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	6936666
+	"46 years"	"46"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43692464
+	"47 years"	"47"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7884809
+	"47 years"	"47"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	44152564
+	"47 years"	"47"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	6887492
+	"47 years"	"47"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43764459
+	"48 years"	"48"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7625852
+	"48 years"	"48"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43681162
+	"48 years"	"48"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	6648166
+	"48 years"	"48"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43179721
+	"49 years"	"49"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7627871
+	"49 years"	"49"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	44057655
+	"49 years"	"49"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	6662650
+	"49 years"	"49"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	43512115
+	"50 years"	"50"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7438367
+	"50 years"	"50"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	43556209
+	"50 years"	"50"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	6474313
+	"50 years"	"50"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	42884626
+	"51 years"	"51"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7207013
+	"51 years"	"51"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	42787047
+	"51 years"	"51"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	6251666
+	"51 years"	"51"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	42002683
+	"52 years"	"52"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7049138
+	"52 years"	"52"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	42331050
+	"52 years"	"52"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	6089876
+	"52 years"	"52"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	41425027
+	"53 years"	"53"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	6896632
+	"53 years"	"53"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	41899566
+	"53 years"	"53"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	5931799
+	"53 years"	"53"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	40860069
+	"54 years"	"54"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	6778839
+	"54 years"	"54"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	41613826
+	"54 years"	"54"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	5812087
+	"54 years"	"54"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	40474647
+	"55 years"	"55"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	6555877
+	"55 years"	"55"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	40851053
+	"55 years"	"55"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	5588894
+	"55 years"	"55"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	39513501
+	"56 years"	"56"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	6338386
+	"56 years"	"56"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	40220959
+	"56 years"	"56"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	5340612
+	"56 years"	"56"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	38790604
+	"57 years"	"57"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	6143932
+	"57 years"	"57"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	39466902
+	"57 years"	"57"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	5158293
+	"57 years"	"57"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	37872179
+	"58 years"	"58"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	5822174
+	"58 years"	"58"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	38485584
+	"58 years"	"58"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	4853840
+	"58 years"	"58"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	36770640
+	"59 years"	"59"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	5694071
+	"59 years"	"59"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37907603
+	"59 years"	"59"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	4707663
+	"59 years"	"59"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	36056341
+	"60 years"	"60"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	5475302
+	"60 years"	"60"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	37019862
+	"60 years"	"60"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	4476937
+	"60 years"	"60"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	34930819
+	"61 years"	"61"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	5216138
+	"61 years"	"61"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	36041255
+	"61 years"	"61"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	4230481
+	"61 years"	"61"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	33911277
+	"62 years"	"62"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	5040213
+	"62 years"	"62"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	35284596
+	"62 years"	"62"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	4045609
+	"62 years"	"62"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	32958226
+	"63 years"	"63"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	4827793
+	"63 years"	"63"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	34539576
+	"63 years"	"63"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	3840435
+	"63 years"	"63"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	32079722
+	"64 years"	"64"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	4665766
+	"64 years"	"64"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	33771647
+	"64 years"	"64"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	3668012
+	"64 years"	"64"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	31056595
+	"65 years"	"65"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	4503599
+	"65 years"	"65"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	32889391
+	"65 years"	"65"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	3500702
+	"65 years"	"65"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	29923953
+	"66 years"	"66"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	4246048
+	"66 years"	"66"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	32078013
+	"66 years"	"66"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	3259463
+	"66 years"	"66"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	28898113
+	"67 years"	"67"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	4075525
+	"67 years"	"67"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	31295726
+	"67 years"	"67"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	3075450
+	"67 years"	"67"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	27958129
+	"68 years"	"68"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	3802898
+	"68 years"	"68"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	30307862
+	"68 years"	"68"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	2847151
+	"68 years"	"68"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	26766802
+	"69 years"	"69"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	3632146
+	"69 years"	"69"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	29574211
+	"69 years"	"69"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	2674541
+	"69 years"	"69"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	25756399
+	"70 years"	"70"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	3489133
+	"70 years"	"70"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	28661602
+	"70 years"	"70"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	2507615
+	"70 years"	"70"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	24613469
+	"71 years"	"71"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	3268216
+	"71 years"	"71"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	27669122
+	"71 years"	"71"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	2317069
+	"71 years"	"71"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	23526799
+	"72 years"	"72"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	3087420
+	"72 years"	"72"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	26714067
+	"72 years"	"72"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	2148666
+	"72 years"	"72"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	22371604
+	"73 years"	"73"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	2914185
+	"73 years"	"73"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	25727365
+	"73 years"	"73"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1983427
+	"73 years"	"73"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	21174161
+	"74 years"	"74"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	2772530
+	"74 years"	"74"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	24658809
+	"74 years"	"74"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1848179
+	"74 years"	"74"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	19850881
+	"75 years"	"75"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	2643803
+	"75 years"	"75"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	23816692
+	"75 years"	"75"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1725771
+	"75 years"	"75"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	18768669
+	"76 years"	"76"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	2468419
+	"76 years"	"76"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	22957853
+	"76 years"	"76"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1586762
+	"76 years"	"76"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	17704547
+	"77 years"	"77"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	2338353
+	"77 years"	"77"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	21975760
+	"77 years"	"77"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1440851
+	"77 years"	"77"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	16545939
+	"78 years"	"78"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	2193515
+	"78 years"	"78"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	21013139
+	"78 years"	"78"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1317602
+	"78 years"	"78"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	15352771
+	"79 years"	"79"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	2053658
+	"79 years"	"79"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	20012634
+	"79 years"	"79"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1204651
+	"79 years"	"79"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	14179959
+	"80 years"	"80"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	1914148
+	"80 years"	"80"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	18980211
+	"80 years"	"80"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	1078633
+	"80 years"	"80"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	13041524
+	"81 years"	"81"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	1744517
+	"81 years"	"81"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	17875959
+	"81 years"	"81"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	955296
+	"81 years"	"81"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	11884756
+	"82 years"	"82"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	1601253
+	"82 years"	"82"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	16807124
+	"82 years"	"82"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	847700
+	"82 years"	"82"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	10797831
+	"83 years"	"83"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	1471868
+	"83 years"	"83"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	15694181
+	"83 years"	"83"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	748681
+	"83 years"	"83"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	9670778
+	"84 years"	"84"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	1346901
+	"84 years"	"84"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	14495733
+	"84 years"	"84"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	662348
+	"84 years"	"84"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	8570590
+	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"Black or African American"	"2054-5"	7872539
+	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"Female"	"F"	"White"	"2106-3"	87649620
+	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"Black or African American"	"2054-5"	3125451
+	"85+ years"	"85+"	"Not Hispanic or Latino"	"2186-5"	"Male"	"M"	"White"	"2106-3"	40752872
